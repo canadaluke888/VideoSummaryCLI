@@ -4,6 +4,7 @@ This is a simple CLI application that uses the Vision, Whisper, and Chat models 
 
 ## Prerequisites
 - **Install ffmpeg:** `sudo apt update sudo apt install ffmpeg -y`
+- **OpenAI API Key**
 - **Install Dependencies:** `pip install -r requirements.txt`
 
 ## Usage
